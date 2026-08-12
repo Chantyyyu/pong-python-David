@@ -1,3 +1,4 @@
+# Modificacion realizada para la actividad de GitHub
 import pygame
 
 BLACK = (0,0,0)
